@@ -1,0 +1,15 @@
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioEstacionamento.exe
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioEstacionamento.deps.json
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioEstacionamento.runtimeconfig.json
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioEstacionamento.dll
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioEstacionamento.pdb
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.csproj.AssemblyReference.cache
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.dll
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioEstacionamento.dll
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.pdb
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Gui\Projetos\C#\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioEstacionamento.dll

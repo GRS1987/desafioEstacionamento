@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DesafioFundamentos
+build_property.ProjectDir = C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\

@@ -1,0 +1,15 @@
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Users\guilherme.silva.AREATEC\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
